@@ -1,0 +1,37 @@
+Albatross
+chicken
+Chough
+Cormorant
+Crane
+Curlew
+Dotterel
+Dove
+Duck
+Dunlin
+Eagle
+Emu
+Falcon
+Finch
+Goldfinch
+Goshawk
+Grouse
+Guinea fowl
+Gull
+Hawk
+Heron
+Hummingbird
+Jay
+Jay, Blue
+Lapwing
+Lark
+Lyrebird
+Magpie
+Mallard
+Nightingale
+Ostrich
+Owl
+Parrot
+Partridge
+Peafowl
+Pelican
+
